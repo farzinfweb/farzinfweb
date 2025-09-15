@@ -14,7 +14,7 @@
 
 ##### BIO
 
-- Summary: Born 1972 in Tabriz, Married Since 2017, No kids yet.
+- Summary: Born 1992 in Tabriz, Married Since 2017, No kids yet.
 - Current Role: CEO of 47monad.
 - Responsibilities: I design, build, and maintain almost all core products under 47monad
 - Currently Exploring: Open source development and how to create sustainable, community-driven tools
